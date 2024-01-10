@@ -56,7 +56,7 @@ namespace LangaugeLearningApp
 
         private void gameLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://www.example.com");
+            System.Diagnostics.Process.Start("");
         }
     }
 }
