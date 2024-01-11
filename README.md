@@ -1,4 +1,5 @@
 Language Learning Application with Snake Game Integration
+
 Welcome to the Language Learning Application! This WinForms application is designed to assist in managing weekly vocabulary lessons while providing an engaging Snake game for a delightful break. Here's how you can compile and run the application on a new machine:
 
 Prerequisites
