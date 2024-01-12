@@ -11,9 +11,9 @@ Compile and run this application:
 1.	Find the project through the provided link to a GitHub page.
 2.	Under the code option, choose to open with Visual Studio.
 3.	Set up the Local Database:
-•  Down the LanguageLearningDb.mdf file and put it under filepath: C:\LanguageLearningDatabase
+•  Down the LanguageLearningDb.mdf file and put it under file path: C:\LanguageLearningDatabase
 •	Right-click on "Data Connections" -> "Add Connection."
-•	Choose the appropriate data source (e.g., Microsoft SQL Server) and follow the prompts to connect to your local database.
+•	Choose the appropriate data source (C:\LanguageLearningDatabase\LanguageLearningDb.mdf).
 5.	Build and Run:
 •	Build the solution by clicking on "Build" -> "Build Solution" in the menu.
 •	Press F5 or click on "Start" to run the application.
@@ -23,7 +23,7 @@ Compile and run this application:
 •	Explore the vocabulary management features and add new words.
 •	Enjoy a break with the integrated Snake game in your Web browser
 
-or you can follow the video step by step https://youtu.be/-KMelp1JdUQ
+Or you can follow the instructions in this video https://youtu.be/-KMelp1JdUQ
 
-If you are not interested in running this application on your machine, you can watch a screen demo video by click link: https://youtu.be/5biRvc_nwAk
+If you are not interested in running this application on your machine, you can watch a screen demo video by click link https://youtu.be/5biRvc_nwAk
 
