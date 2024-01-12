@@ -23,7 +23,7 @@ Compile and run this application:
 •	Explore the vocabulary management features and add new words.
 •	Enjoy a break with the integrated Snake game in your Web browser
 
-or you can follow the video step by step https://youtu.be/5biRvc_nwAk
+or you can follow the video step by step https://
 
-If you are not interested in running this application on your machine, you can watch a screen demo video by click link: https://youtu.be/lRystaNdrYw
+If you are not interested in running this application on your machine, you can watch a screen demo video by click link: https://youtu.be/5biRvc_nwAk
 
