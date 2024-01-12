@@ -19,8 +19,8 @@ namespace LangaugeLearningApp
             InitializeComponent();
             LoadData();
         }
-        string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-        SqlConnection Con = new SqlConnection(connectionString);
+
+        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\LanguageLearningDatabase\LanguageLearningDb.mdf;Integrated Security=True;Connect Timeout=30");
 
         private void LoadData()
         {
