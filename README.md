@@ -2,23 +2,22 @@ Language Learning Application with Snake Game Integration
 
 Welcome to the Language Learning Application! This WinForms application is designed to assist in managing weekly vocabulary lessons while providing an engaging Snake game for a delightful break. Here's how you can compile and run the application on a new machine:
 
-Prerequisites
-•	Visual Studio: Ensure that Visual Studio is installed on your machine. You can download it here.
-•	Git: You will need Git to clone the repository. You can download it here.
+Prerequisites:
+•	Visual Studio: Ensure that Visual Studio is installed on your machine. 
+•	GitHub: You will access this project throught link https://github.com/Shuzzzzzzz/LangaugeLearningApp
+• Link your Visual Studio with your GitHub account.
 
-Getting Started
-1.	Clone the Repository:
-2.	Open in Visual Studio:
-•	Open Visual Studio.
-•	Click on "File" -> "Open" -> "Project/Solution" and navigate to the cloned repository.
+Compile and run this application:
+1.	Find the project through the provided link to a GitHub page.
+2.	Under the code option, choose to open with Visual Studio.
 3.	Set up the Local Database:
-•	Open the Server Explorer in Visual Studio.
+•  Down the LanguageLearningDb.mdf file and put it under filepath: C:\LanguageLearningDatabase
 •	Right-click on "Data Connections" -> "Add Connection."
 •	Choose the appropriate data source (e.g., Microsoft SQL Server) and follow the prompts to connect to your local database.
-4.	Build and Run:
+5.	Build and Run:
 •	Build the solution by clicking on "Build" -> "Build Solution" in the menu.
-•	Press F5 or click on "Start Debugging" to run the application.
-5.	Explore the Language Learning App:   
+•	Press F5 or click on "Start" to run the application.
+6.	Explore the Language Learning App:   
 •	Create an account.
 •	Log in with your credentials.
 •	Explore the vocabulary management features and add new words.
