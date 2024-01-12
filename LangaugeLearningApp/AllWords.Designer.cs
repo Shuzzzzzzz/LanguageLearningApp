@@ -72,8 +72,9 @@
             this.logout.Name = "logout";
             this.logout.Size = new System.Drawing.Size(117, 29);
             this.logout.TabIndex = 5;
-            this.logout.Text = "LogOut";
+            this.logout.Text = "                                                                           ";
             this.logout.UseVisualStyleBackColor = true;
+            this.logout.Click += new System.EventHandler(this.logout_Click);
             // 
             // gameLink
             // 
@@ -102,7 +103,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "AllWords";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "AllWords";
+            this.Text = " ";
             ((System.ComponentModel.ISupportInitialize)(this.allWordsGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

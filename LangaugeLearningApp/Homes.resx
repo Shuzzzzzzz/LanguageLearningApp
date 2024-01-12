@@ -121,7 +121,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAIn9SURBVHhe7Z0H
+        wQAADsEBuJFr7QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAIn9SURBVHhe7Z0H
         WBxXlqgn55md3dmdnbD7ZnfH9tjjcR7nnLMc5SBbclC2kiVbOaGMEhIoImgakFBAiKiMskBWthJKKEN3
         o5wzcN49zW2rKU5DV3dVd93u87/v/7xvV1Tfqrp1zqlw7/0ewzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAM
         wzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMw0QV6RXw
@@ -712,5 +712,8 @@
         PzlnyZz/wzbJ5jEMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAM
         wzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzAMwzBMNPC97/1/VSZ7YPdS34QAAAAASUVORK5CYII=
 </value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>                                                                        D:\VS\LangaugeLearningApp\                                                                                                                                                                                                 </value>
   </data>
 </root>

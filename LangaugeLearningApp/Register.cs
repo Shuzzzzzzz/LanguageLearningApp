@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,8 @@ namespace LangaugeLearningApp
             InitializeComponent();
         }
 
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\zhangshu\Documents\LanguageLearningDb.mdf;Integrated Security=True;Connect Timeout=30");
+        string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+        SqlConnection Con = new SqlConnection(connectionString);
 
         private void Clear()
         {
@@ -51,6 +53,7 @@ namespace LangaugeLearningApp
                         login.Show();
                         this.Hide();
                     }
+                    Con.Close();
                 }
                 catch (Exception ex)
                 {

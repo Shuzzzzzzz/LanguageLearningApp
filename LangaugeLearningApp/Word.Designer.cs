@@ -127,6 +127,7 @@ namespace LangaugeLearningApp
             this.logout.TabIndex = 6;
             this.logout.Text = "LogOut";
             this.logout.UseVisualStyleBackColor = true;
+            this.logout.Click += new System.EventHandler(this.logout_Click);
             // 
             // Word
             // 
