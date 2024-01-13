@@ -26,7 +26,7 @@ namespace LangaugeLearningApp
         }
         private void saveButton_Click(object sender, EventArgs e)
         {
-            if(wordText.Text == "" || definitionText.Text == "")
+            if(wordText.Text == "")
             {
                 MessageBox.Show("Missing Information");
             }
