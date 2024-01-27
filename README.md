@@ -4,7 +4,7 @@ Welcome to the Language Learning Application! This WinForms application is desig
 
 Prerequisites:
 •	Visual Studio: Ensure that Visual Studio is installed on your machine. 
-•	GitHub: You will access this project throught link https://github.com/Shuzzzzzzz/LangaugeLearningApp
+•	GitHub: You will access this project throught link https://github.com/Shuzzzzzzz/LanguageLearningApp
 • Link your Visual Studio with your GitHub account.
 
 Compile and run this application:
