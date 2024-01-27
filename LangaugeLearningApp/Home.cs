@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LangaugeLearningApp
 {
-    public partial class Homes : Form
+    public partial class Home : Form
     {
-        public Homes()
+        public Home()
         {
             InitializeComponent();
         }

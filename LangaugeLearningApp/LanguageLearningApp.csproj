@@ -55,11 +55,11 @@
     <Compile Include="AllWords.Designer.cs">
       <DependentUpon>AllWords.cs</DependentUpon>
     </Compile>
-    <Compile Include="Homes.cs">
+    <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Homes.Designer.cs">
-      <DependentUpon>Homes.cs</DependentUpon>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -91,8 +91,8 @@
     <EmbeddedResource Include="AllWords.resx">
       <DependentUpon>AllWords.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Homes.resx">
-      <DependentUpon>Homes.cs</DependentUpon>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>

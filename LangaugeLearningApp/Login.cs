@@ -36,7 +36,7 @@ namespace LangaugeLearningApp
             if (ValidateLogin(username, password))
             {
                 MessageBox.Show("Login successful!");
-                Homes homes = new Homes();
+                Home homes = new Home();
                 homes.Show();
                 this.Hide();
             }

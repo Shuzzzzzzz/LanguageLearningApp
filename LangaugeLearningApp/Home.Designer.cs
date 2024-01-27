@@ -1,6 +1,6 @@
 ﻿namespace LangaugeLearningApp
 {
-    partial class Homes
+    partial class Home
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Homes));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.addButton = new System.Windows.Forms.Button();
             this.viewButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
